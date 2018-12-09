@@ -1,2 +1,2 @@
-*.pro.user
-build-number-counter*
+*.pro.user*
+build-*
